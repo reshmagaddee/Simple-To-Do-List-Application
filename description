@@ -1,0 +1,7 @@
+Description
+HTML Structure:
+Create the basic structure with an input field for tasks, a button to add tasks, and a container to display the tasks.
+css styling
+style the to do list elements for a clean and user -friendly interface
+javascript
+implement the logic to add tasks dynamically
